@@ -81,7 +81,7 @@
 #                                      simplified nginx startup commands
 ####################################################################################
 
-version: '2.0'
+version: '3.0'
 
 # networks
 # create a network 'guacnetwork_compose' in mode 'bridged'
