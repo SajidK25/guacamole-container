@@ -1,6 +1,4 @@
 #!/bin/sh
-#
-# check if docker is running
 if ! (docker ps >/dev/null 2>&1)
 then
 	echo "docker daemon not running, will exit here!"
